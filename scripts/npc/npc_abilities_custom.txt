@@ -2,4 +2,9 @@
 "DOTAAbilities"
 {
 	"Version"		"1"
+
+	"addon_pudge_meat_hook"
+	{
+		
+	}
 }
